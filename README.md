@@ -14,6 +14,7 @@ This plugin is an actively maintained fork of misenhower's original [Wyze Homebr
 - V1 & V2 Contact Sensor
 - V1 & V2 Motion Sensor
 - Lock
+- Climate Sensor
 
 For more information about our version updates, please check our [change log](CHANGELOG.md).
 
