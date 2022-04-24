@@ -1,6 +1,9 @@
 # homebridge-wyze-connected-home-op
 ## Releases
 
+### v0.5.9-1
+- Initial support for Wyze Climate sensor
+
 ### v0.5.9
 - Initial support for Wyze Light Strips
 - Initial support for Wyze V2 Contact & Motion sensors
