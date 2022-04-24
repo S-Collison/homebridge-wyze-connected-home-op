@@ -136,8 +136,8 @@ module.exports = class WyzeConnectedHome {
         return WyzeLeakSensor;
       case 'TemperatureHumidity':
         return WyzeTemperatureHumidity;
-      case 'Thermostat':
-        return WyzeThermostat;
+    //  case 'Thermostat':
+    //    return WyzeThermostat;
       case 'Lock':
         return WyzeLock;
     }
