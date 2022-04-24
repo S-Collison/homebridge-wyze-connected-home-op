@@ -1,5 +1,5 @@
 # homebridge-wyze-connected-home-op
-[![npm](https://img.shields.io/npm/dt/homebridge-wyze-connected-home-op)](https://www.npmjs.com/package/homebridge-wyze-connected-home-op)
+[![npm](https://img.shields.io/npm/dt/s-collison/homebridge-wyze-connected-home-op)](https://www.npmjs.com/package/s-collison/homebridge-wyze-connected-home-op)
 
 This plugin adds support for Wyze Connected Home devices to [Homebridge](https://github.com/homebridge/homebridge).
 
